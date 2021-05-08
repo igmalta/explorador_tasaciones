@@ -1,0 +1,5 @@
+mysql-connector==2.2.9
+Pillow==8.2.0
+tk==0.1.0
+tkcalendar==1.6.1
+
