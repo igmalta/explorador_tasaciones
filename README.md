@@ -8,4 +8,4 @@ Cuando se quiere agregar un nuevo informe de tasación, o bien editar uno ya exi
 
 ![Ventana principal](img/readme/editor.png)
 
-Para conocer mejor el proyecto se puede consultar el siguiente manual: [Documentación Técnica](documentacion\manual_tecnico.pdf).
+Para conocer mejor el proyecto se puede consultar el siguiente manual: [Documentación Técnica](documentacion/manual_tecnico.pdf).
